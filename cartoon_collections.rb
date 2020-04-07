@@ -30,6 +30,6 @@ def find_valid_calls(planeteer_calls)
     end
   end
   
-  return first[0]
+  return first
     
 end
